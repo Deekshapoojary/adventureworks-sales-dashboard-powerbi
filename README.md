@@ -68,10 +68,7 @@ Dashboard/
    Adventure Work_Powerbi_Dashboard.pbix
 
 Images/
-   overview-dashboard.png
-   product-intelligence.png
-   customer-analytics.png
-   time-intelligence.png
+     Powerbi-dashboard.png
 ```
 
 ## Author
