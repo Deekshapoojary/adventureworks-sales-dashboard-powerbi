@@ -8,6 +8,10 @@ The dashboard provides business insights through Sales Analysis, Product Intelli
 
 ---
 
+## Dashboard Preview
+
+![AdventureWorks Dashboard](Images/Powerbi dashboard.png)
+
 ## Tools Used
 
 - Power BI
